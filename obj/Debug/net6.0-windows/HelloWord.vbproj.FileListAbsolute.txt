@@ -1,0 +1,17 @@
+C:\Users\Alumno\Desktop\7-10\HelloWord\bin\Debug\net6.0-windows\HelloWord.exe
+C:\Users\Alumno\Desktop\7-10\HelloWord\bin\Debug\net6.0-windows\HelloWord.deps.json
+C:\Users\Alumno\Desktop\7-10\HelloWord\bin\Debug\net6.0-windows\HelloWord.runtimeconfig.json
+C:\Users\Alumno\Desktop\7-10\HelloWord\bin\Debug\net6.0-windows\HelloWord.dll
+C:\Users\Alumno\Desktop\7-10\HelloWord\bin\Debug\net6.0-windows\HelloWord.pdb
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.Form1.resources
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.vbproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.AssemblyInfo.vb
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.dll
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\refint\HelloWord.dll
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.pdb
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\HelloWord.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\7-10\HelloWord\obj\Debug\net6.0-windows\ref\HelloWord.dll
